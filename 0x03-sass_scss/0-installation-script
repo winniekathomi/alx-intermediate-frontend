@@ -1,3 +1,3 @@
-1. Installed Node.js (version X.X.X) from official website.
+1. Installed Node.js version 20.16 from official website.
 2. Ran the command: npm install sass -v 3.7.4
 3. Verified installation by running: sass --version
